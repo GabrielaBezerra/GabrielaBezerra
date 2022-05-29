@@ -7,14 +7,14 @@
 </p>
 
 <p align="left">
-I have experience with:
+I have experience with building:
   
-* Building iOS Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift) ![Objective-C](https://img.shields.io/badge/-Objective%20C-2E333D?style=flat&logo=apple)
-* Building Crawlers and doing ML with ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
-* Making backend APIs with ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js)
+* iOS Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift) ![Objective-C](https://img.shields.io/badge/-Objective%20C-2E333D?style=flat&logo=apple)
+* Crawlers and doing ML with ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
+* Backend services with ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js)
 </p>
 
-I've also been playing with Data Science, Security and IoT lately.
+Lately I've been playing with SwiftUI + Combine, and learning how to use Data Science and/or Gamefication on the educational field.
 
 <p align="left">
   
