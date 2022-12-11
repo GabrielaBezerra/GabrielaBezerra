@@ -12,7 +12,7 @@ I have experience with building:
 * iOS Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift) ![Objective-C](https://img.shields.io/badge/-Objective%20C-2E333D?style=flat&logo=apple)
 * Crawlers and doing ML with ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
 * Backend services with ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js)
-* Small home automations with ![C++](https://img.shields.io/badge/-++-2E333D?style=flat&logo=C)
+* Small home automations with ![C++](https://img.shields.io/badge/-C/C++-2E333D?style=flat&logo=C)
 </p>
 
 Lately I've been playing with SwiftUI + Combine, and studying Data Science.
