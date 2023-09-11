@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <h3><b>Hi there! Welcome to my Github 🐙</b></h3>
-  Feel free to explore my repos and clone, fork and make PRs.
+  Feel free to explore my repos, clone, fork and make PRs.
 </p>
 
 <p align="left">
