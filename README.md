@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <h3><b>Hi there! Welcome to my Github 🐙</b></h3>
-  Feel free to explore my repos and maybe even contribute.
+  Feel free to explore my repos and clone, fork and make PRs.
 </p>
 
 <p align="left">
@@ -15,22 +15,13 @@ I have experience with building:
 * Small home automations with ![C++](https://img.shields.io/badge/-C/C++-2E333D?style=flat&logo=C)
 </p>
 
-Lately I've been playing with SwiftUI + Combine, and studying Data Science.
+Lately I've been playing with ARKit, Reality Kit, and studying Data Science.
 
 <p align="left">
   
 If you have some interesting project that you think I can help with, feel free to reach me through:
-  
-  <a href="https://telegram.me/sharkberry" alt="Telegram">
-  <img src="https://img.shields.io/badge/-Telegram-00aaff?style=flat-square&labelColor=84C2F8&logo=telegram&link=https://telegram.me/sharkberry"/></a>
-  
-  <a href="https://mail.google.com/mail/u/?authuser=gabrieladecarvalhobezerra@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-aa0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrieladecarvalhobezerra@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/gabi-bezerra/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabi-bezerra/" /></a>
-
-  <a href="https://www.instagram.com/sharkberry.dev/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-aa0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/sharkberry.dev/"/></a>
 
 </p>
