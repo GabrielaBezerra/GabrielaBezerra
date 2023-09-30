@@ -15,7 +15,7 @@ I have experience with building:
 * Small home automations with ![C++](https://img.shields.io/badge/-C/C++-2E333D?style=flat&logo=C)
 </p>
 
-Lately I've been playing with ARKit, Reality Kit, and studying Data Science.
+Lately I've been playing with SwiftUI, Combine, ARKit, Reality Kit.
 
 <p align="left">
   
