@@ -15,7 +15,9 @@ I have experience with building:
 * Small home automations with ![C++](https://img.shields.io/badge/-C/C++-2E333D?style=flat&logo=C)
 </p>
 
-Lately I've been studying for my master's degree! So I am playing with ML, Python, and Rust (for fun).
+Lately I've been studying for my master's degree! 
+
+I've been playing with ML, Python, and Rust (for fun).
 
 <p align="left">
   
