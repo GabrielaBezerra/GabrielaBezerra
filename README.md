@@ -21,7 +21,7 @@ I have experience with building:
 
 Lately I've been studying for my master's degree! 
 
-I've been playing with ML, Python, and Rust (for fun).
+I've been playing with ML, Python, and Mojo (for fun).
 
 <p align="left">
   
