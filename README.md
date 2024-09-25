@@ -13,15 +13,15 @@
 <p align="left">
 I have experience with building:
   
-* iOS Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift) ![Objective-C](https://img.shields.io/badge/-Objective%20C-2E333D?style=flat&logo=apple)
-* Crawlers and doing ML with ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
+* Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift) ![Flutter](https://img.shields.io/badge/-Flutter-2E333D?style=flat&logo=flutter) ![Objective-C](https://img.shields.io/badge/-Objective%20C-2E333D?style=flat&logo=apple)
+* ML & Crawlers with ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
 * Backend services with ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js)
 * Small home automations with ![C++](https://img.shields.io/badge/-C/C++-2E333D?style=flat&logo=C)
 </p>
 
-Lately I've been studying for my master's degree! 
+Lately I've been doing research for my master's degree & learning Flutter to build Apps!
 
-I've been playing with ML, Python, and Mojo (for fun).
+I've also been playing with ML, Python, Mojo, and ![Rust](https://img.shields.io/badge/-Rust-2E333D?style=flat&logo=Rust) (for fun).
 
 <p align="left">
   
