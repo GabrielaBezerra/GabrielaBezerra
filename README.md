@@ -4,7 +4,7 @@
 <p align="left">
   <h3>
     <b>
-    Hi there! Welcome to my Github 🐙
+    Hello there! Welcome to my Github 🐙
     </b>
   </h3>
   Feel free to explore my repos, clone, fork and make PRs.
