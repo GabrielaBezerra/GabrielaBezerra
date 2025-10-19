@@ -11,17 +11,15 @@
 </p>
 
 <p align="left">
-I have experience with building:
+Here you will find that I have experience with building:
   
 * Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift) ![Flutter](https://img.shields.io/badge/-Flutter-2E333D?style=flat&logo=flutter) ![Objective-C](https://img.shields.io/badge/-Objective%20C-2E333D?style=flat&logo=apple)
 * ML & Crawlers with ![Python](https://img.shields.io/badge/-Python-2E333D?style=flat&logo=python)
 * Backend services with ![Nodejs](https://img.shields.io/badge/-Node.js-2E333D?style=flat&logo=node.js)
-* Small home automations with ![C++](https://img.shields.io/badge/-C/C++-2E333D?style=flat&logo=C)
+* Small home automations with ![C/C++](https://img.shields.io/badge/-C/C++-2E333D?style=flat&logo=C)
 </p>
 
-Lately I've been doing research for my master's degree & learning Flutter to build Apps!
-
-I've also been playing with ML, Python, Mojo, and ![Rust](https://img.shields.io/badge/-Rust-2E333D?style=flat&logo=Rust) (for fun).
+Lately I've been working on my master's degree on ML with python & building Apps with flutter. I've also been playing with ![Rust](https://img.shields.io/badge/-Rust-2E333D?style=flat&logo=Rust) for fun, trying to build small retro games for terminal.
 
 <p align="left">
   
